@@ -1,0 +1,111 @@
+2026.09.16 16:08:16 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\adria\Desktop\WorkSpace-Master\Practica 1 - Scala2' for client Visual Studio Code 1.138.0.
+2026.09.16 16:08:16 INFO  Memory monitor started
+2026.09.16 16:08:16 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.16 16:08:17 INFO  no build target found for C:\Users\adria\Desktop\WorkSpace-Master\Practica 1 - Scala2\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 16:08:19 WARN  Could not find semantic tokens for: file:///C:/Users/adria/Desktop/WorkSpace-Master/Practica%201%20-%20Scala2/scala-vscode/build.sbt
+2026.09.16 16:08:21 INFO  running 'C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -Dsbt.version=1.13.0 -jar C:\Users\adria\AppData\Local\Temp\metals3402410831885790823\sbt-launch.jar -Dbloop.export-jar-classifiers=sources -Dbloop.export-meta-build=true bloopInstall'
+2026.09.16 16:08:22 INFO  [info] Updated file C:\Users\adria\Desktop\WorkSpace-Master\Practica 1 - Scala2\scala-vscode\project\build.properties: set sbt.version to 1.13.0
+2026.09.16 16:08:22 INFO  [info] welcome to sbt 1.13.0 (Eclipse Adoptium Java 17.0.20.1)
+2026.09.16 16:08:24 INFO  [info] loading settings for project scala-vscode-build-build from metals.sbt...
+2026.09.16 16:08:24 INFO  [info] loading project definition from C:\Users\adria\Desktop\WorkSpace-Master\Practica 1 - Scala2\scala-vscode\project\project
+2026.09.16 16:08:27 INFO  [info] loading settings for project scala-vscode-build from metals.sbt...
+2026.09.16 16:08:27 INFO  [info] loading project definition from C:\Users\adria\Desktop\WorkSpace-Master\Practica 1 - Scala2\scala-vscode\project
+2026.09.16 16:08:30 INFO  [success] Generated .bloop\scala-vscode-build.json
+2026.09.16 16:08:30 INFO  [success] Total time: 3 s, completed 16 sept 2026 16:08:30
+2026.09.16 16:08:30 INFO  [info] loading settings for project scala-vscode from build.sbt...
+2026.09.16 16:08:30 INFO  [info] set current project to scala-vscode (in build file:/C:/Users/adria/Desktop/WorkSpace-Master/Practica%201%20-%20Scala2/scala-vscode/)
+2026.09.16 16:08:30 INFO  [warn] scalaVersion for subproject scala-vscode fell back to a default value 2.12.21; declare it explicitly in build.sbt:
+2026.09.16 16:08:30 INFO  [warn]   scalaVersion := "2.12.21"
+2026.09.16 16:08:30 INFO  [success] Generated .bloop\scala-vscode.json
+2026.09.16 16:08:30 INFO  [success] Generated .bloop\scala-vscode-test.json
+2026.09.16 16:08:30 INFO  [success] Total time: 0 s, completed 16 sept 2026 16:08:31
+2026.09.16 16:08:31 INFO  time: ran 'sbt bloopInstall' in 9.78s
+2026.09.16 16:08:31 INFO  Attempting to connect to the build server...
+2026.09.16 16:08:31 INFO  Found a Bloop server running
+2026.09.16 16:08:31 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\adria\Desktop\WorkSpace-Master\Practica 1 - Scala2\.metals\bsp.trace.json or C:\Users\adria\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.09.16 16:08:38 INFO  time: Connected to build server in 7.04s
+2026.09.16 16:08:38 INFO  Connected to Build server: Bloop v2.1.2
+2026.09.16 16:08:39 INFO  no build target found for C:\Users\adria\Desktop\WorkSpace-Master\Practica 1 - Scala2\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.16 16:08:45 INFO  no build target found for C:\Users\adria\Desktop\WorkSpace-Master\Practica 1 - Scala2\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.16 16:08:45 INFO  no build target found for C:\Users\adria\Desktop\WorkSpace-Master\Practica 1 - Scala2\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.16 16:08:45 WARN  no build target for: C:\Users\adria\Desktop\WorkSpace-Master\Practica 1 - Scala2\scala-vscode\build.sbt
+2026.09.16 16:08:45 INFO  no build target found for C:\Users\adria\Desktop\WorkSpace-Master\Practica 1 - Scala2\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 2.12.21
+sept 16, 2026 4:08:45 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 13
+2026.09.16 16:08:45 INFO  no build target found for C:\Users\adria\Desktop\WorkSpace-Master\Practica 1 - Scala2\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.16 16:08:45 INFO  no build target found for C:\Users\adria\Desktop\WorkSpace-Master\Practica 1 - Scala2\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.16 16:08:45 INFO  no build target found for C:\Users\adria\Desktop\WorkSpace-Master\Practica 1 - Scala2\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 2.12.21
+sept 16, 2026 4:08:46 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 16
+sept 16, 2026 4:08:46 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 17
+2026.09.16 16:08:46 WARN  no build target for: C:\Users\adria\Desktop\WorkSpace-Master\Practica 1 - Scala2\scala-vscode\build.sbt
+2026.09.16 16:08:47 INFO  no build target found for C:\Users\adria\Desktop\WorkSpace-Master\Practica 1 - Scala2\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.16 16:08:49 INFO  no build target found for C:\Users\adria\Desktop\WorkSpace-Master\Practica 1 - Scala2\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.16 16:08:51 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.16 16:08:52 INFO  time: indexed workspace in 13s
+2026.09.16 16:08:52 WARN  no build target for: C:\Users\adria\Desktop\WorkSpace-Master\Practica 1 - Scala2\scala-vscode\build.sbt
+2026.09.16 16:08:52 INFO  no build target found for C:\Users\adria\Desktop\WorkSpace-Master\Practica 1 - Scala2\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.16 16:08:52 WARN  no build target for: C:\Users\adria\Desktop\WorkSpace-Master\Practica 1 - Scala2\scala-vscode\build.sbt
+2026.09.16 16:08:52 INFO  no build target found for C:\Users\adria\Desktop\WorkSpace-Master\Practica 1 - Scala2\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.16 16:08:59 INFO  compiling scala-vscode (1 scala source)
+2026.09.16 16:08:59 INFO  Non-compiled module 'compiler-bridge_2.12' for Scala 2.12.21. Compiling...
+2026.09.16 16:09:08 INFO  Compilation completed in 8.061s.
+2026.09.16 16:09:11 INFO  time: compiled scala-vscode in 11s
+2026.09.16 16:09:11 INFO  compiling scala-vscode (1 scala source)
+2026.09.16 16:09:11 INFO  time: compiled scala-vscode in 0.56s
+Exception in thread "pool-7-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:207)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+Exception in thread "pool-7-thread-2" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:207)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2026.09.16 16:15:15 INFO  Shutting down server
+2026.09.16 16:15:15 INFO  Memory monitor stopped
+2026.09.16 16:15:15 INFO  shutting down Metals
+2026.09.16 16:15:15 INFO  Shut down connection with build server.
+2026.09.16 16:15:15 INFO  Exiting server
+2026.09.16 16:15:44 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\adria\Desktop\WorkSpace-Master\Practica 1 - Scala2' for client Visual Studio Code 1.138.0.
+2026.09.16 16:15:45 INFO  Memory monitor started
+2026.09.16 16:15:45 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.16 16:15:46 INFO  no build target found for C:\Users\adria\Desktop\WorkSpace-Master\Practica 1 - Scala2\scala-vscode\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 16:15:46 INFO  Attempting to connect to the build server...
+2026.09.16 16:15:46 INFO  Found a Bloop server running
+2026.09.16 16:15:46 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\adria\Desktop\WorkSpace-Master\Practica 1 - Scala2\.metals\bsp.trace.json or C:\Users\adria\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.09.16 16:15:46 INFO  time: Connected to build server in 0.29s
+2026.09.16 16:15:46 INFO  Connected to Build server: Bloop v2.1.2
+sept 16, 2026 4:15:47 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2
+sept 16, 2026 4:15:47 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5
+2026.09.16 16:15:50 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.16 16:15:50 INFO  time: indexed workspace in 3.42s
+2026.09.16 16:53:06 INFO  Shutting down server
+2026.09.16 16:53:06 INFO  Memory monitor stopped
+2026.09.16 16:53:06 INFO  shutting down Metals
+2026.09.16 16:53:06 INFO  Shut down connection with build server.
+2026.09.16 16:53:06 INFO  Exiting server
+2026.09.16 18:22:15 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\adria\Desktop\WorkSpace-Master\Practica 1 - Scala2' for client Visual Studio Code 1.138.0.
+2026.09.16 18:22:15 INFO  Memory monitor started
+2026.09.16 18:22:15 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.16 18:22:16 INFO  no build target found for C:\Users\adria\Desktop\WorkSpace-Master\Practica 1 - Scala2\scala-vscode\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 18:22:16 INFO  Attempting to connect to the build server...
+2026.09.16 18:22:16 INFO  Found a Bloop server running
+2026.09.16 18:22:16 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\adria\Desktop\WorkSpace-Master\Practica 1 - Scala2\.metals\bsp.trace.json or C:\Users\adria\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.09.16 18:22:16 INFO  time: Connected to build server in 0.27s
+2026.09.16 18:22:16 INFO  Connected to Build server: Bloop v2.1.2
+2026.09.16 18:22:19 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.16 18:22:19 INFO  time: indexed workspace in 3.5s
+2026.09.16 18:22:46 INFO  Shutting down server
+2026.09.16 18:22:46 INFO  Memory monitor stopped
+2026.09.16 18:22:46 INFO  shutting down Metals
+2026.09.16 18:22:46 INFO  Shut down connection with build server.
+2026.09.16 18:22:46 INFO  Exiting server
