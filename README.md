@@ -28,3 +28,7 @@ Visual Studio Code + Metals + sbt
 IntelliJ IDEA Community + sbt
 
 [Entorno 3](parte1/intellij/)
+
+## Parte 2 — Programación con Scala
+
+[Ver Parte 2](parte2/README.md)
