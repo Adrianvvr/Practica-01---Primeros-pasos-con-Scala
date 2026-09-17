@@ -1,3 +1,15 @@
 .metals/
 .scala-build/
 .vscode/
+# Entornos y cachés
+.bloop/
+.metals/
+.idea/
+.vscode/
+
+# Archivos compilados de sbt
+target/
+project/target/
+project/project/
+*.class
+*.log
