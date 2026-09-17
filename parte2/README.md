@@ -18,3 +18,6 @@ en Scala utilizando JupyterLab.
 ## Evidencias
 
 ![JupyterLab con Scala](images/jupyter-parte2.PNG)
+![JupyterLab Scala version](images/scala-version.PNG)
+
+
