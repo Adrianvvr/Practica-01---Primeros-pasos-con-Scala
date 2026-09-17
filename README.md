@@ -32,3 +32,7 @@ IntelliJ IDEA Community + sbt
 ## Parte 2 — Programación con Scala
 
 [Ver Parte 2](parte2/README.md)
+
+## Parte 3 — Mini proyectos en entornos de desarrollo
+
+[Ver Parte 2](parte3/README.md)
