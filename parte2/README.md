@@ -17,4 +17,4 @@ en Scala utilizando JupyterLab.
 
 ## Evidencias
 
-![JupyterLab con Scala](images/jupyter-parte2.png)
+![JupyterLab con Scala](images/jupyter-parte2.PNG)
